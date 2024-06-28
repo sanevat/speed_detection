@@ -22,7 +22,7 @@ def main():
             break
 
         h, w, _ = img.shape
-        roi = img[340:720, 500:w]
+        roi = img[300:600, 400:800]
         mask = obj_det.apply(roi)
         mask = cv2.threshold(mask, 254, 255, cv2.THRESH_BINARY)[1]
 
