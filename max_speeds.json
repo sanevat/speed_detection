@@ -1,0 +1,58 @@
+{
+    "0": {
+        "max_speed": 31,
+        "allowed": "allowed"
+    },
+    "1": {
+        "max_speed": 75,
+        "allowed": "notallowed"
+    },
+    "2": {
+        "max_speed": 41,
+        "allowed": "allowed"
+    },
+    "3": {
+        "max_speed": 295,
+        "allowed": "notallowed"
+    },
+    "4": {
+        "max_speed": 111,
+        "allowed": "notallowed"
+    },
+    "5": {
+        "max_speed": 63,
+        "allowed": "notallowed"
+    },
+    "6": {
+        "max_speed": 56,
+        "allowed": "allowed"
+    },
+    "7": {
+        "max_speed": 124,
+        "allowed": "notallowed"
+    },
+    "8": {
+        "max_speed": 145,
+        "allowed": "notallowed"
+    },
+    "9": {
+        "max_speed": 72,
+        "allowed": "notallowed"
+    },
+    "10": {
+        "max_speed": 61,
+        "allowed": "notallowed"
+    },
+    "11": {
+        "max_speed": 89,
+        "allowed": "notallowed"
+    },
+    "12": {
+        "max_speed": 69,
+        "allowed": "notallowed"
+    },
+    "13": {
+        "max_speed": 87,
+        "allowed": "notallowed"
+    }
+}
