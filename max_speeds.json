@@ -1,26 +1,26 @@
 {
     "0": {
-        "max_speed": 33,
+        "max_speed": 44,
         "allowed": "allowed"
     },
     "1": {
-        "max_speed": 536,
-        "allowed": "notallowed"
+        "max_speed": 50,
+        "allowed": "allowed"
     },
     "2": {
-        "max_speed": 46,
+        "max_speed": 48,
         "allowed": "allowed"
     },
     "3": {
-        "max_speed": 60,
-        "allowed": "notallowed"
+        "max_speed": 55,
+        "allowed": "allowed"
     },
     "4": {
-        "max_speed": 59,
+        "max_speed": 51,
         "allowed": "allowed"
     },
     "5": {
-        "max_speed": 45,
+        "max_speed": 58,
         "allowed": "allowed"
     },
     "6": {
@@ -28,126 +28,70 @@
         "allowed": "allowed"
     },
     "7": {
-        "max_speed": 66,
+        "max_speed": 65,
         "allowed": "notallowed"
     },
     "8": {
-        "max_speed": 72,
-        "allowed": "notallowed"
-    },
-    "9": {
-        "max_speed": 49,
-        "allowed": "allowed"
-    },
-    "10": {
-        "max_speed": 54,
-        "allowed": "allowed"
-    },
-    "11": {
-        "max_speed": 59,
-        "allowed": "allowed"
-    },
-    "12": {
-        "max_speed": 52,
-        "allowed": "allowed"
-    },
-    "13": {
-        "max_speed": 62,
-        "allowed": "notallowed"
-    },
-    "14": {
-        "max_speed": 56,
-        "allowed": "allowed"
-    },
-    "15": {
-        "max_speed": 60,
-        "allowed": "notallowed"
-    },
-    "16": {
         "max_speed": 37,
         "allowed": "allowed"
     },
-    "17": {
-        "max_speed": 46,
+    "9": {
+        "max_speed": 54,
         "allowed": "allowed"
     },
-    "18": {
-        "max_speed": 43,
-        "allowed": "allowed"
-    },
-    "19": {
-        "max_speed": 52,
-        "allowed": "allowed"
-    },
-    "20": {
+    "10": {
         "max_speed": 44,
         "allowed": "allowed"
     },
-    "21": {
-        "max_speed": 40,
+    "11": {
+        "max_speed": 56,
         "allowed": "allowed"
     },
-    "22": {
-        "max_speed": 47,
+    "12": {
+        "max_speed": 56,
         "allowed": "allowed"
     },
-    "23": {
-        "max_speed": 49,
+    "13": {
+        "max_speed": 51,
         "allowed": "allowed"
     },
-    "24": {
-        "max_speed": 42,
-        "allowed": "allowed"
-    },
-    "25": {
-        "max_speed": 44,
-        "allowed": "allowed"
-    },
-    "26": {
-        "max_speed": 130,
-        "allowed": "notallowed"
-    },
-    "27": {
-        "max_speed": 120,
-        "allowed": "notallowed"
-    },
-    "28": {
-        "max_speed": 57,
-        "allowed": "allowed"
-    },
-    "29": {
-        "max_speed": 41,
-        "allowed": "allowed"
-    },
-    "30": {
-        "max_speed": 48,
-        "allowed": "allowed"
-    },
-    "31": {
-        "max_speed": 127,
-        "allowed": "notallowed"
-    },
-    "32": {
-        "max_speed": 50,
-        "allowed": "allowed"
-    },
-    "33": {
-        "max_speed": 49,
-        "allowed": "allowed"
-    },
-    "34": {
-        "max_speed": 42,
-        "allowed": "allowed"
-    },
-    "35": {
-        "max_speed": 41,
-        "allowed": "allowed"
-    },
-    "36": {
+    "14": {
         "max_speed": 45,
         "allowed": "allowed"
     },
-    "37": {
+    "15": {
+        "max_speed": 42,
+        "allowed": "allowed"
+    },
+    "16": {
+        "max_speed": 54,
+        "allowed": "allowed"
+    },
+    "17": {
+        "max_speed": 41,
+        "allowed": "allowed"
+    },
+    "18": {
+        "max_speed": 44,
+        "allowed": "allowed"
+    },
+    "19": {
+        "max_speed": 41,
+        "allowed": "allowed"
+    },
+    "20": {
+        "max_speed": 40,
+        "allowed": "allowed"
+    },
+    "21": {
+        "max_speed": 42,
+        "allowed": "allowed"
+    },
+    "22": {
+        "max_speed": 42,
+        "allowed": "allowed"
+    },
+    "23": {
         "max_speed": 44,
         "allowed": "allowed"
     }
